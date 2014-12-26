@@ -1,7 +1,6 @@
 var fs = require('fs');
 var path = require('path');
 var mime = require('mime');
-var async = require('async');
 var glob = require('glob');
 
 
